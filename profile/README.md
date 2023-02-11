@@ -13,6 +13,6 @@ Nous développons nos propres apis, plugins, page web par conséquent nous gardo
 
 ## Liens
 
-Site: https://ashless.net <br>
-Discord: https://discord.ashless.net <br>
-Ip du serveur minecraft: play.ashless.net <br>
+Site : https://ashless.net <br>
+Discord : https://discord.ashless.net <br>
+Ip du serveur minecraft : play.ashless.net <br>
